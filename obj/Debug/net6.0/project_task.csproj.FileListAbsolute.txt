@@ -1,0 +1,15 @@
+/home/user-rast/Рабочий стол/project_task/bin/Debug/net6.0/project_task
+/home/user-rast/Рабочий стол/project_task/bin/Debug/net6.0/project_task.deps.json
+/home/user-rast/Рабочий стол/project_task/bin/Debug/net6.0/project_task.runtimeconfig.json
+/home/user-rast/Рабочий стол/project_task/bin/Debug/net6.0/project_task.dll
+/home/user-rast/Рабочий стол/project_task/bin/Debug/net6.0/project_task.pdb
+/home/user-rast/Рабочий стол/project_task/obj/Debug/net6.0/project_task.csproj.AssemblyReference.cache
+/home/user-rast/Рабочий стол/project_task/obj/Debug/net6.0/project_task.GeneratedMSBuildEditorConfig.editorconfig
+/home/user-rast/Рабочий стол/project_task/obj/Debug/net6.0/project_task.AssemblyInfoInputs.cache
+/home/user-rast/Рабочий стол/project_task/obj/Debug/net6.0/project_task.AssemblyInfo.cs
+/home/user-rast/Рабочий стол/project_task/obj/Debug/net6.0/project_task.csproj.CoreCompileInputs.cache
+/home/user-rast/Рабочий стол/project_task/obj/Debug/net6.0/project_task.dll
+/home/user-rast/Рабочий стол/project_task/obj/Debug/net6.0/refint/project_task.dll
+/home/user-rast/Рабочий стол/project_task/obj/Debug/net6.0/project_task.pdb
+/home/user-rast/Рабочий стол/project_task/obj/Debug/net6.0/project_task.genruntimeconfig.cache
+/home/user-rast/Рабочий стол/project_task/obj/Debug/net6.0/ref/project_task.dll
